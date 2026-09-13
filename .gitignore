@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Firebase deploy cache
+.firebase/
+
+# ESPN API cache (regenerable, 300+ files)
+eet_global/data/espn_cache/
+
+# Backup files
+eet_global/data/results.backup_*.csv
+
+# Generated outputs (regenerable by running scripts)
+arsenal_2025_26_*.csv
+arsenal_2025_26_*.png
+eet_match_emotions.csv
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
