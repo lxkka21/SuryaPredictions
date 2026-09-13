@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EET V2.3 - Europe's Top 5 Leagues + Cups</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>EET <span>V2.3</span></h1>
+  <p class="tagline">Emotional Expectation Terror &mdash; Europe's top 5 leagues + cups</p>
+  <nav id="tabs">
+    <button data-tab="overview" class="active">Overview</button>
+    <button data-tab="matches">Matches</button>
+    <button data-tab="fixtures">Fixtures</button>
+    <button data-tab="leagues">Competitions</button>
+    <button data-tab="teams">Teams</button>
+    <button data-tab="top">Top Moments</button>
+    <button data-tab="lategoals">Late Goals</button>
+  </nav>
+  <div id="updated"></div>
+</header>
+
+<main>
+  <section id="tab-overview" class="tab active">
+    <div class="stats" id="stats"></div>
+    <div class="cols">
+      <div class="card">
+        <h2>Latest results</h2>
+        <div id="latest-results"></div>
+      </div>
+      <div class="card">
+        <h2>Upcoming fixtures</h2>
+        <div id="upcoming"></div>
+      </div>
+    </div>
+    <div class="card">
+      <h2>This week's biggest moments</h2>
+      <div id="week-moments"></div>
+    </div>
+  </section>
+
+  <section id="tab-matches" class="tab">
+    <div class="toolbar">
+      <input id="m-search" type="search" placeholder="filter team...">
+      <select id="m-comp"><option value="">all competitions</option></select>
+      <button id="m-sort">sort: |EO|</button>
+    </div>
+    <div class="table-wrap">
+      <table id="matches-table">
+        <thead>
+          <tr><th>Date</th><th>Comp</th><th>Match</th><th>Score</th><th>|EO|</th></tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div id="match-detail" class="detail"></div>
+  </section>
+
+  <section id="tab-fixtures" class="tab">
+    <div class="toolbar">
+      <select id="fx-comp"><option value="">all competitions</option></select>
+      <span class="muted">Kickoff times are shown in your local timezone</span>
+    </div>
+    <div id="fixtures-list"></div>
+  </section>
+
+  <section id="tab-leagues" class="tab">
+    <div class="chips" id="league-chips"></div>
+    <div id="league-grid"></div>
+  </section>
+
+  <section id="tab-teams" class="tab">
+    <div class="toolbar">
+      <select id="team-select"></select>
+    </div>
+    <div class="card">
+      <h2 id="team-title"></h2>
+      <div id="team-stats" class="stats small"></div>
+      <div id="team-chart"></div>
+    </div>
+    <div class="card">
+      <h2>Match history</h2>
+      <div class="table-wrap">
+        <table id="team-matches">
+          <thead><tr><th>Date</th><th>Comp</th><th>Opp</th><th>Res</th><th>Score</th><th>EO</th><th>ES</th><th>RP</th><th>PJI</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section id="tab-top" class="tab">
+    <div class="table-wrap">
+      <table id="top-table">
+        <thead>
+          <tr>
+            <th>#</th><th>Date</th><th>Team</th><th>Opp</th><th>Comp</th><th>Res</th>
+            <th>|EO|</th><th>EX</th><th>SI</th><th>CI</th><th>PJI</th><th>ES</th><th>RP</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="tab-lategoals" class="tab">
+    <div class="card">
+      <h2>Late goals <span class="muted" style="font-size:12px;font-weight:400">(after the 85th minute — only games where it changed the result)</span></h2>
+      <div id="late-summary"></div>
+    </div>
+    <div class="table-wrap">
+      <table id="late-table">
+        <thead>
+          <tr>
+            <th>Date</th><th>Comp</th><th>Match</th><th>Score</th><th>Late goals</th><th>Min</th><th>Team</th><th>|EO|</th><th>Impact</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

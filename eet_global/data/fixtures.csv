@@ -1,0 +1,109 @@
+date,kickoff_utc,comp,stage,home,away
+2026-09-12,2026-09-12T12:00Z,LALIGA,,Racing Santander,Alaves
+2026-09-12,2026-09-12T13:00Z,SA,,Genoa,Frosinone
+2026-09-12,2026-09-12T13:30Z,BL1,,Borussia Dortmund,SC Paderborn 07
+2026-09-12,2026-09-12T13:30Z,BL1,,FC Augsburg,Bayer Leverkusen
+2026-09-12,2026-09-12T13:30Z,BL1,,Hoffenheim,VfB Stuttgart
+2026-09-12,2026-09-12T13:30Z,BL1,,Mainz 05,Eintracht Frankfurt
+2026-09-12,2026-09-12T13:30Z,BL1,,SC Freiburg,Borussia Monchengladbach
+2026-09-12,2026-09-12T14:00Z,PL,,Aston Villa,Nottingham Forest
+2026-09-12,2026-09-12T14:00Z,PL,,Bournemouth,Brentford
+2026-09-12,2026-09-12T14:00Z,PL,,Chelsea,Hull City
+2026-09-12,2026-09-12T14:00Z,PL,,Crystal Palace,Ipswich Town
+2026-09-12,2026-09-12T14:00Z,PL,,Liverpool,Fulham
+2026-09-12,2026-09-12T14:15Z,LALIGA,,Osasuna,Espanyol
+2026-09-12,2026-09-12T15:15Z,FL1,,Strasbourg,AS Monaco
+2026-09-12,2026-09-12T16:00Z,SA,,Lazio,AC Milan
+2026-09-12,2026-09-12T16:30Z,BL1,,1. FC Koln,Werder Bremen
+2026-09-12,2026-09-12T16:30Z,LALIGA,,Athletic Club,Elche
+2026-09-12,2026-09-12T16:30Z,PL,,Tottenham Hotspur,Everton
+2026-09-12,2026-09-12T18:45Z,FL1,,Auxerre,Nice
+2026-09-12,2026-09-12T18:45Z,FL1,,Le Havre,Angers
+2026-09-12,2026-09-12T18:45Z,FL1,,Lorient,Toulouse
+2026-09-12,2026-09-12T18:45Z,FL1,,Paris FC,Lyon
+2026-09-12,2026-09-12T18:45Z,SA,,Atalanta,Cagliari
+2026-09-12,2026-09-12T19:00Z,LALIGA,,Real Madrid,Rayo Vallecano
+2026-09-12,2026-09-12T19:00Z,PL,,Sunderland,Arsenal
+2026-09-13,2026-09-13T12:00Z,LALIGA,,Celta Vigo,Malaga
+2026-09-13,2026-09-13T13:00Z,FL1,,Lille,Troyes
+2026-09-13,2026-09-13T13:00Z,PL,,Coventry City,Brighton & Hove Albion
+2026-09-13,2026-09-13T13:00Z,SA,,Lecce,Monza
+2026-09-13,2026-09-13T13:30Z,BL1,,RB Leipzig,Hamburger SV
+2026-09-13,2026-09-13T14:15Z,LALIGA,,Levante,Barcelona
+2026-09-13,2026-09-13T15:15Z,FL1,,Le Mans,Lens
+2026-09-13,2026-09-13T15:30Z,BL1,,SV Elversberg,Bayern Munich
+2026-09-13,2026-09-13T15:30Z,PL,,Manchester United,Manchester City
+2026-09-13,2026-09-13T16:00Z,SA,,Napoli,Bologna
+2026-09-13,2026-09-13T16:30Z,LALIGA,,Getafe,Deportivo La Coruna
+2026-09-13,2026-09-13T18:45Z,FL1,,Brest,Paris Saint-Germain
+2026-09-13,2026-09-13T18:45Z,SA,,Sassuolo,Juventus
+2026-09-13,2026-09-13T19:00Z,LALIGA,,Real Sociedad,Atletico Madrid
+2026-09-14,2026-09-14T16:30Z,SA,,Como,Parma
+2026-09-14,2026-09-14T16:30Z,SA,,Torino,Roma
+2026-09-14,2026-09-14T18:45Z,SA,,Inter Milan,Udinese
+2026-09-14,2026-09-14T19:00Z,LALIGA,,Villarreal,Real Betis
+2026-09-14,2026-09-14T19:00Z,PL,,Leeds United,Newcastle United
+2026-09-15,2026-09-15T16:00Z,CI,,Genoa,Sudtirol
+2026-09-15,2026-09-15T17:00Z,LALIGA,,Rayo Vallecano,Espanyol
+2026-09-15,2026-09-15T18:45Z,LC,,West Ham United,Fulham
+2026-09-15,2026-09-15T19:00Z,CI,,Fiorentina,Pisa
+2026-09-15,2026-09-15T19:00Z,LC,,Ipswich Town,Arsenal
+2026-09-15,2026-09-15T19:00Z,LC,,Liverpool,Tottenham Hotspur
+2026-09-15,2026-09-15T19:00Z,LC,,Reading,Brentford
+2026-09-16,2026-09-16T16:45Z,UEL,,Omonia Nicosia,Celta Vigo
+2026-09-16,2026-09-16T18:45Z,LC,,Everton,Wolverhampton Wanderers
+2026-09-16,2026-09-16T19:00Z,LC,,Coventry City,Aston Villa
+2026-09-16,2026-09-16T19:00Z,LC,,Manchester United,Brighton & Hove Albion
+2026-09-16,2026-09-16T19:00Z,UEL,,AC Milan,Benfica
+2026-09-16,2026-09-16T19:00Z,UEL,,Anderlecht,Lyon
+2026-09-16,2026-09-16T19:00Z,UEL,,Bayer Leverkusen,NK Celje
+2026-09-16,2026-09-16T19:00Z,UEL,,SK Sturm Graz,Rennes
+2026-09-16,2026-09-16T19:00Z,UEL,,Sunderland,AZ Alkmaar
+2026-09-17,2026-09-17T16:45Z,UEL,,OFI Crete,Hoffenheim
+2026-09-17,2026-09-17T18:30Z,LC,,Manchester City,Norwich City
+2026-09-17,2026-09-17T19:00Z,UEL,,Besiktas,Marseille
+2026-09-17,2026-09-17T19:00Z,UEL,,Crystal Palace,Lech Poznan
+2026-09-17,2026-09-17T19:00Z,UEL,,Juventus,NEC Nijmegen
+2026-09-18,2026-09-18T18:30Z,BL1,,Bayern Munich,Union Berlin
+2026-09-18,2026-09-18T18:45Z,FL1,,AS Monaco,Lens
+2026-09-18,2026-09-18T18:45Z,SA,,Monza,Sassuolo
+2026-09-19,2026-09-19T13:30Z,BL1,,Borussia Monchengladbach,Mainz 05
+2026-09-19,2026-09-19T15:15Z,FL1,,Paris FC,Strasbourg
+2026-10-13,2026-10-13T16:45Z,UCL,,Lens,Sporting CP
+2026-10-13,2026-10-13T19:00Z,UCL,,Arsenal,Lille
+2026-10-13,2026-10-13T19:00Z,UCL,,Atletico Madrid,Manchester United
+2026-10-13,2026-10-13T19:00Z,UCL,,Galatasaray,Barcelona
+2026-10-13,2026-10-13T19:00Z,UCL,,Inter Milan,Club Brugge
+2026-10-13,2026-10-13T19:00Z,UCL,,RB Leipzig,PSV Eindhoven
+2026-10-13,2026-10-13T19:00Z,UCL,,Viking FK,Bayern Munich
+2026-10-13,2026-10-13T19:00Z,UCL,,Villarreal,Napoli
+2026-10-14,2026-10-14T16:45Z,UCL,,Feyenoord Rotterdam,Como
+2026-10-14,2026-10-14T16:45Z,UCL,,LASK Linz,Liverpool
+2026-10-15,2026-10-15T16:45Z,UECL,,CSKA Sofia,AS Monaco
+2026-10-15,2026-10-15T16:45Z,UECL,,CSU Craiova,Getafe
+2026-10-15,2026-10-15T19:00Z,UECL,,Atalanta,Pafos
+2026-10-15,2026-10-15T19:00Z,UECL,,Brighton & Hove Albion,Kauno Zalgiris
+2026-10-15,2026-10-15T19:00Z,UECL,,SC Freiburg,Jablonec
+2026-10-22,2026-10-22T16:45Z,UECL,,Getafe,FC Lugano
+2026-10-22,2026-10-22T16:45Z,UECL,,Jablonec,Brighton & Hove Albion
+2026-10-22,2026-10-22T19:00Z,UECL,,AS Monaco,SC Freiburg
+2026-10-22,2026-10-22T19:00Z,UECL,,Ajax Amsterdam,Atalanta
+2026-10-27,2026-10-27T17:00Z,DFB,,Hamburger SV,Eintracht Frankfurt
+2026-10-27,2026-10-27T17:00Z,DFB,,Rot-Weiss Essen,RB Leipzig
+2026-10-27,2026-10-27T17:00Z,DFB,,Sg Sonnenhof Großaspach,FC Augsburg
+2026-10-27,2026-10-27T17:00Z,DFB,,Vfl Bochum,Mainz 05
+2026-10-27,2026-10-27T19:45Z,DFB,,1. FC Koln,Union Berlin
+2026-10-27,2026-10-27T19:45Z,DFB,,Borussia Dortmund,Werder Bremen
+2026-10-27,2026-10-27T19:45Z,DFB,,Borussia Monchengladbach,Karlsruher Sc
+2026-10-27,2026-10-27T19:45Z,DFB,,SV Elversberg,Sv Darmstadt 98
+2026-10-28,2026-10-28T17:00Z,DFB,,Dynamo Dresden,FC Schalke 04
+2026-10-28,2026-10-28T17:00Z,DFB,,SC Freiburg,Vfl Wolfsburg
+2026-11-05,2026-11-05T17:45Z,UECL,,Atalanta,Kairat Almaty
+2026-12-02,2026-12-02T20:00Z,CI,,AC Milan,Monza
+2026-12-02,2026-12-02T20:00Z,CI,,Atalanta,Udinese
+2026-12-02,2026-12-02T20:00Z,CI,,Bologna,Palermo
+2026-12-02,2026-12-02T20:00Z,CI,,Como,Cremonese
+2026-12-02,2026-12-02T20:00Z,CI,,Inter Milan,Tbd Away
+2026-12-02,2026-12-02T20:00Z,CI,,Juventus,Sassuolo
+2026-12-02,2026-12-02T20:00Z,CI,,Napoli,Tbd Away
+2026-12-02,2026-12-02T20:00Z,CI,,Roma,Hellas Verona

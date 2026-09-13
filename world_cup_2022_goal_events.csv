@@ -1,0 +1,173 @@
+match_id,minute,stoppage_time,team,scorer,score_after_goal
+2022001,16,NULL,Ecuador,Enner Valencia,0-1
+2022001,31,NULL,Ecuador,Enner Valencia,0-2
+2022002,84,NULL,Netherlands,Cody Gakpo,0-1
+2022002,90,9.0,Netherlands,Davy Klaassen,0-2
+2022003,41,NULL,Senegal,Boulaye Dia,0-1
+2022003,48,NULL,Senegal,Famara Diedhiou,0-2
+2022003,78,NULL,Qatar,Mohammed Muntari,1-2
+2022003,84,NULL,Senegal,Bamba Dieng,1-3
+2022004,6,NULL,Netherlands,Cody Gakpo,1-0
+2022004,49,NULL,Ecuador,Enner Valencia,1-1
+2022005,44,NULL,Senegal,Ismaila Sarr,0-1
+2022005,67,NULL,Ecuador,Moises Caicedo,1-1
+2022005,70,NULL,Senegal,Kalidou Koulibaly,1-2
+2022006,26,NULL,Netherlands,Cody Gakpo,1-0
+2022006,49,NULL,Netherlands,Frenkie de Jong,2-0
+2022007,35,NULL,England,Jude Bellingham,1-0
+2022007,43,NULL,England,Bukayo Saka,2-0
+2022007,45,1.0,England,Raheem Sterling,3-0
+2022007,62,NULL,Iran,Mehdi Taremi,3-1
+2022007,65,NULL,England,Bukayo Saka,4-1
+2022007,71,NULL,England,Marcus Rashford,5-1
+2022007,89,NULL,England,Jack Grealish,6-1
+2022007,90,13.0,Iran,Mehdi Taremi,6-2
+2022008,36,NULL,United States,Timothy Weah,1-0
+2022008,82,NULL,Wales,Gareth Bale,1-1
+2022009,90,8.0,Iran,Rouzbeh Cheshmi,0-1
+2022009,90,11.0,Iran,Ramin Rezaeian,0-2
+2022011,50,NULL,England,Marcus Rashford,0-1
+2022011,51,NULL,England,Phil Foden,0-2
+2022011,68,NULL,England,Marcus Rashford,0-3
+2022012,38,NULL,United States,Christian Pulisic,0-1
+2022013,10,NULL,Argentina,Lionel Messi,1-0
+2022013,48,NULL,Saudi Arabia,Saleh Al-Shehri,1-1
+2022013,53,NULL,Saudi Arabia,Salem Al-Dawsari,1-2
+2022015,64,NULL,Argentina,Lionel Messi,1-0
+2022015,87,NULL,Argentina,Enzo Fernandez,2-0
+2022016,39,NULL,Poland,Piotr Zielinski,1-0
+2022016,82,NULL,Poland,Robert Lewandowski,2-0
+2022017,46,NULL,Argentina,Alexis Mac Allister,0-1
+2022017,67,NULL,Argentina,Julian Alvarez,0-2
+2022018,47,NULL,Mexico,Henry Martin,0-1
+2022018,52,NULL,Mexico,Luis Chavez,0-2
+2022018,90,5.0,Saudi Arabia,Salem Al-Dawsari,1-2
+2022020,9,NULL,Australia,Craig Goodwin,0-1
+2022020,27,NULL,France,Adrien Rabiot,1-1
+2022020,32,NULL,France,Kylian Mbappe,2-1
+2022020,68,NULL,France,Kylian Mbappe,3-1
+2022020,71,NULL,France,Olivier Giroud,4-1
+2022021,23,NULL,Australia,Mitchell Duke,0-1
+2022022,61,NULL,Denmark,Andreas Christensen,0-1
+2022022,68,NULL,France,Kylian Mbappe,1-1
+2022022,86,NULL,France,Kylian Mbappe,2-1
+2022023,60,NULL,Australia,Mathew Leckie,1-0
+2022024,58,NULL,Tunisia,Wahbi Khazri,1-0
+2022025,33,NULL,Germany,Ilkay Gundogan,1-0
+2022025,75,NULL,Japan,Ritsu Doan,1-1
+2022025,83,NULL,Japan,Takuma Asano,1-2
+2022026,11,NULL,Spain,Dani Olmo,1-0
+2022026,21,NULL,Spain,Marco Asensio,2-0
+2022026,31,NULL,Spain,Ferran Torres,3-0
+2022026,54,NULL,Spain,Ferran Torres,4-0
+2022026,74,NULL,Spain,Gavi,5-0
+2022026,89,NULL,Spain,Carlos Soler,6-0
+2022026,90,2.0,Spain,Alvaro Morata,7-0
+2022027,81,NULL,Costa Rica,Keysher Fuller,0-1
+2022028,62,NULL,Spain,Alvaro Morata,1-0
+2022028,83,NULL,Germany,Niclas Fullkrug,1-1
+2022029,11,NULL,Spain,Alvaro Morata,0-1
+2022029,48,NULL,Japan,Ritsu Doan,1-1
+2022029,51,NULL,Japan,Ao Tanaka,2-1
+2022030,10,NULL,Germany,Serge Gnabry,0-1
+2022030,58,NULL,Costa Rica,Yeltsin Tejeda,1-1
+2022030,70,NULL,Germany,Kai Havertz,1-2
+2022030,72,NULL,Germany,Kai Havertz,1-3
+2022030,73,NULL,Costa Rica,Juan Pablo Vargas,2-3
+2022030,85,NULL,Germany,Niclas Fullkrug,2-4
+2022032,44,NULL,Belgium,Michy Batshuayi,1-0
+2022033,73,NULL,Morocco,Abdelhamid Sabiri,0-1
+2022033,90,2.0,Morocco,Zakaria Aboukhlal,0-2
+2022034,2,NULL,Canada,Alphonso Davies,0-1
+2022034,36,NULL,Croatia,Andrej Kramaric,1-1
+2022034,44,NULL,Croatia,Marko Livaja,2-1
+2022034,70,NULL,Croatia,Andrej Kramaric,3-1
+2022034,90,4.0,Croatia,Lovro Majer,4-1
+2022036,4,NULL,Morocco,Hakim Ziyech,0-1
+2022036,23,NULL,Morocco,Youssef En-Nesyri,0-2
+2022036,40,NULL,Canada,Nayef Aguerd,1-2
+2022037,62,NULL,Brazil,Richarlison,1-0
+2022037,73,NULL,Brazil,Richarlison,2-0
+2022038,48,NULL,Switzerland,Breel Embolo,1-0
+2022039,29,NULL,Cameroon,Jean-Charles Castelletto,1-0
+2022039,45,1.0,Serbia,Strahinja Pavlovic,1-1
+2022039,45,3.0,Serbia,Sergej Milinkovic-Savic,1-2
+2022039,53,NULL,Serbia,Aleksandar Mitrovic,1-3
+2022039,63,NULL,Cameroon,Vincent Aboubakar,2-3
+2022039,66,NULL,Cameroon,Eric Maxim Choupo-Moting,3-3
+2022040,83,NULL,Brazil,Casemiro,1-0
+2022041,90,2.0,Cameroon,Vincent Aboubakar,1-0
+2022042,20,NULL,Switzerland,Xherdan Shaqiri,0-1
+2022042,26,NULL,Serbia,Aleksandar Mitrovic,1-1
+2022042,35,NULL,Serbia,Dusan Vlahovic,2-1
+2022042,44,NULL,Switzerland,Breel Embolo,2-2
+2022042,48,NULL,Switzerland,Remo Freuler,2-3
+2022044,65,NULL,Portugal,Cristiano Ronaldo,1-0
+2022044,73,NULL,Ghana,Andre Ayew,1-1
+2022044,78,NULL,Portugal,Joao Felix,2-1
+2022044,80,NULL,Portugal,Rafael Leao,3-1
+2022044,89,NULL,Ghana,Osman Bukari,3-2
+2022045,24,NULL,Ghana,Mohammed Salisu,0-1
+2022045,34,NULL,Ghana,Mohammed Kudus,0-2
+2022045,58,NULL,South Korea,Cho Gue-sung,1-2
+2022045,61,NULL,South Korea,Cho Gue-sung,2-2
+2022045,68,NULL,Ghana,Mohammed Kudus,2-3
+2022046,54,NULL,Portugal,Cristiano Ronaldo,1-0
+2022046,90,3.0,Portugal,Bruno Fernandes,2-0
+2022047,26,NULL,Uruguay,Giorgian de Arrascaeta,0-1
+2022047,32,NULL,Uruguay,Giorgian de Arrascaeta,0-2
+2022048,5,NULL,Portugal,Ricardo Horta,0-1
+2022048,27,NULL,South Korea,Kim Young-gwon,1-1
+2022048,90,1.0,South Korea,Hwang Hee-chan,2-1
+2022049,10,NULL,Netherlands,Memphis Depay,1-0
+2022049,45,1.0,Netherlands,Daley Blind,2-0
+2022049,76,NULL,United States,Haji Wright,2-1
+2022049,81,NULL,Netherlands,Denzel Dumfries,3-1
+2022050,35,NULL,Argentina,Lionel Messi,1-0
+2022050,57,NULL,Argentina,Julian Alvarez,2-0
+2022050,77,NULL,Australia,Enzo Fernandez,2-1
+2022051,44,NULL,France,Olivier Giroud,1-0
+2022051,74,NULL,France,Kylian Mbappe,2-0
+2022051,90,1.0,France,Kylian Mbappe,3-0
+2022051,90,9.0,Poland,Robert Lewandowski,3-1
+2022052,22,NULL,England,Jordan Henderson,1-0
+2022052,32,NULL,England,Harry Kane,2-0
+2022052,57,NULL,England,Bukayo Saka,3-0
+2022053,43,NULL,Japan,Daizen Maeda,1-0
+2022053,55,NULL,Croatia,Ivan Perisic,1-1
+2022054,7,NULL,Brazil,Vinicius Junior,1-0
+2022054,13,NULL,Brazil,Neymar,2-0
+2022054,29,NULL,Brazil,Richarlison,3-0
+2022054,36,NULL,Brazil,Lucas Paqueta,4-0
+2022054,76,NULL,South Korea,Paik Seung-ho,4-1
+2022056,17,NULL,Portugal,Goncalo Ramos,1-0
+2022056,33,NULL,Portugal,Pepe,2-0
+2022056,51,NULL,Portugal,Goncalo Ramos,3-0
+2022056,55,NULL,Portugal,Raphael Guerreiro,4-0
+2022056,58,NULL,Switzerland,Manuel Akanji,4-1
+2022056,67,NULL,Portugal,Goncalo Ramos,5-1
+2022056,90,2.0,Portugal,Rafael Leao,6-1
+2022057,45,1.0,Croatia,Bruno Petkovic,1-1
+2022057,105,1.0,Brazil,Neymar,0-1
+2022058,35,NULL,Argentina,Nahuel Molina,0-1
+2022058,73,NULL,Argentina,Lionel Messi,0-2
+2022058,83,NULL,Netherlands,Wout Weghorst,1-2
+2022058,90,11.0,Netherlands,Wout Weghorst,2-2
+2022059,42,NULL,Morocco,Youssef En-Nesyri,1-0
+2022060,17,NULL,France,Aurelien Tchouameni,0-1
+2022060,54,NULL,England,Harry Kane,1-1
+2022060,78,NULL,France,Olivier Giroud,1-2
+2022061,34,NULL,Argentina,Lionel Messi,1-0
+2022061,39,NULL,Argentina,Julian Alvarez,2-0
+2022061,69,NULL,Argentina,Julian Alvarez,3-0
+2022062,5,NULL,France,Theo Hernandez,1-0
+2022062,79,NULL,France,Randal Kolo Muani,2-0
+2022063,7,NULL,Croatia,Josko Gvardiol,1-0
+2022063,9,NULL,Morocco,Achraf Dari,1-1
+2022063,42,NULL,Croatia,Mislav Orsic,2-1
+2022064,23,NULL,Argentina,Lionel Messi,1-0
+2022064,36,NULL,Argentina,Angel Di Maria,2-0
+2022064,80,NULL,France,Kylian Mbappe,2-1
+2022064,81,NULL,France,Kylian Mbappe,2-2
+2022064,108,NULL,Argentina,Lionel Messi,3-2
+2022064,118,NULL,France,Kylian Mbappe,3-3

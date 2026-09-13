@@ -1,0 +1,229 @@
+date,comp,stage,home,away,hg,ag,pen_h,pen_a,flags,goals
+2026-08-04,UCL,QR3,Sparta Prague,Lyon,2,1,,,,
+2026-08-11,UCL,QR3,Lyon,Sparta Prague,3,0,,,,
+2026-08-14,CI,R1,Cagliari,Arezzo,1,0,,,,23:H
+2026-08-14,CI,R1,Fiorentina,Benevento,4,1,,,f15_H,2:H;35:H;48:H;50:H;54:A
+2026-08-14,CI,R1,Monza,US Avellino,3,0,,,,22:H;45:H;51:H
+2026-08-14,CI,R1,Parma,Catania,2,0,,,,19:H;35:H
+2026-08-15,CI,R1,Torino,Carrarese,1,0,,,f15_H,9:H
+2026-08-15,CI,R1,Udinese,Padova,1,0,,,,35:H
+2026-08-15,CI,R1,Venezia,Modena,3,2,,,late_win_H_85;multi_comeback_H;blown_A,17:A;26:H;39:A;83:H;85:H
+2026-08-15,LALIGA,,Alaves,Getafe,3,0,,,late_win_H_90,73:H;90:H;90:H
+2026-08-15,LALIGA,,Sevilla,Rayo Vallecano,2,1,,,f15_A;late_win_H_90;comeback_H;blown_A,4:A;52:H;90:H
+2026-08-16,CI,R1,Frosinone,Juve Stabia,4,1,,,,20:H;29:H;38:H;48:A;71:H
+2026-08-16,CI,R1,Genoa,Ascoli,4,1,,,late_win_H_80;comeback_H;blown_A,25:A;42:H;45:H;61:H;80:H
+2026-08-16,CI,R1,Lazio,Mantova,0,2,,,late_win_A_90,75:A;90:A
+2026-08-16,CS,F,Arsenal,Manchester City,3,0,,,f15_H,
+2026-08-16,LALIGA,,Espanyol,Levante,3,0,,,f15_H;late_win_H_80,5:H;40:H;80:H
+2026-08-16,LALIGA,,Racing Santander,Villarreal,2,2,,,comeback_A;blown_H,21:H;34:H;45:A;45:A
+2026-08-17,CI,R1,Palermo,Lecce,2,0,,,f15_H,14:H;42:H
+2026-08-17,CI,R1,Sassuolo,Cesena,3,0,,,f15_H,13:H;45:H;75:H
+2026-08-17,LALIGA,,Deportivo La Coruna,Elche,1,1,,,comeback_A;blown_H,21:H;76:A
+2026-08-18,UCL,PO,Fenerbahce,Lyon,1,1,,,,
+2026-08-19,LALIGA,,Atletico Madrid,Malaga,2,0,,,late_win_H_85,70:H;85:H
+2026-08-20,LALIGA,,Rayo Vallecano,Alaves,1,1,,,late_eq_A_84;comeback_A;blown_H,48:H;84:A
+2026-08-20,UECL,PO,Atalanta,Hapoel Tel Aviv,0,0,,,,
+2026-08-20,UECL,PO,Getafe,Partizan Belgrade,3,1,,,,
+2026-08-20,UECL,PO,Gornik Zabrze,AS Monaco,2,3,,,,
+2026-08-20,UECL,PO,Motherwell,SC Freiburg,1,3,,,,
+2026-08-20,UECL,PO,Tromso,Brighton & Hove Albion,0,0,,,,
+2026-08-21,DFB,R1,Hansa Rostock,VfB Stuttgart,0,4,,,late_win_A_82,18:A;37:A;74:A;82:A
+2026-08-21,DFB,R1,SC St. Tonis,Eintracht Frankfurt,0,11,,,f15_A;late_win_A_87,4:A;10:A;17:A;29:A;34:A;36:A;41:A;44:A;45:A;45:A;87:A
+2026-08-21,FL1,,Marseille,Strasbourg,4,0,,,late_win_H_90,46:H;68:H;89:H;90:H
+2026-08-21,LALIGA,,Real Betis,Real Sociedad,1,0,,,,63:H
+2026-08-21,PL,,Arsenal,Coventry City,3,0,,,f15_H,15:H;23:H;49:H
+2026-08-22,DFB,R1,Eintracht Trier,RB Leipzig,0,6,,,f15_A;late_win_A_90,2:A;6:A;45:A;76:A;90:A;90:A
+2026-08-22,DFB,R1,Energie Cottbus,FC Augsburg,0,2,,,late_win_A_90,49:A;90:A
+2026-08-22,DFB,R1,FC Erzgebirge Aue,Hoffenheim,0,4,,,f15_A,6:A;17:A;45:A;63:A
+2026-08-22,DFB,R1,Luneburger SK Hansa,Werder Bremen,0,3,,,f15_A,11:A;53:A;76:A
+2026-08-22,DFB,R1,MSV Duisburg,SV Elversberg,1,3,,,late_win_A_90,38:A;54:H;88:A;90:A
+2026-08-22,DFB,R1,SV Wehen Wiesbaden,Bayer Leverkusen,0,4,,,,43:A;47:A;69:A;79:A
+2026-08-22,FL1,,Le Mans,Brest,2,2,,,comeback_H;comeback_A;blown_A;blown_H,31:A;45:H;55:H;62:A
+2026-08-22,FL1,,Lens,Auxerre,5,2,,,f15_H;late_win_H_88,12:H;49:H;54:H;61:A;66:H;69:A;88:H
+2026-08-22,FL1,,Nice,Lorient,0,0,,,,
+2026-08-22,FL1,,Toulouse,Lyon,0,2,,,late_win_A_85,68:A;85:A
+2026-08-22,FL1,,Troyes,Paris FC,0,0,,,,
+2026-08-22,LALIGA,,Athletic Club,Sevilla,1,3,,,f15_A,15:A;50:A;57:A;70:H
+2026-08-22,LALIGA,,Espanyol,Real Madrid,1,2,,,f15_A;late_win_A_90,9:A;30:H;90:A
+2026-08-22,LALIGA,,Valencia,Celta Vigo,0,0,,,,
+2026-08-22,PL,,Brentford,Tottenham Hotspur,3,0,,,f15_H,12:H;33:H;49:H
+2026-08-22,PL,,Everton,Crystal Palace,2,0,,,,42:H;53:H
+2026-08-22,PL,,Hull City,Manchester United,2,0,,,,17:H;38:H
+2026-08-22,PL,,Ipswich Town,Sunderland,2,1,,,late_win_H_90,24:H;39:A;90:H
+2026-08-22,PL,,Nottingham Forest,Leeds United,0,1,,,late_win_A_88,88:A
+2026-08-22,SA,,Genoa,Napoli,0,2,,,late_win_A_87,82:A;87:A
+2026-08-22,SA,,Inter Milan,Monza,4,1,,,f15_H,6:H;29:A;48:H;55:H;63:H
+2026-08-22,SA,,Parma,Cagliari,0,1,,,,79:A
+2026-08-22,SA,,Udinese,Como,1,1,,,comeback_A;blown_H,29:H;54:A
+2026-08-23,DFB,R1,1. FC Phonix Lubeck,SC Paderborn 07,2,4,,,,22:A;41:A;43:H;61:A;71:A;75:H
+2026-08-23,DFB,R1,Fortuna Dusseldorf,SC Freiburg,1,5,,,late_win_A_90,18:A;71:A;74:A;76:H;80:A;90:A
+2026-08-23,DFB,R1,Schott,Borussia Monchengladbach,0,5,,,,22:A;25:A;48:A;61:A;67:A
+2026-08-23,DFB,R1,TSV Eintracht Braunschweig,Union Berlin,2,4,,,f15_H;late_win_A_90;multi_comeback_A;blown_H,11:H;31:A;54:H;63:A;72:A;90:A
+2026-08-23,DFB,R1,VFB Krieschow,Mainz 05,0,9,,,late_win_A_88,19:A;26:A;32:A;39:A;43:A;48:A;57:A;73:A;88:A
+2026-08-23,FL1,,Angers,Lille,0,2,,,f15_A,11:A;31:A
+2026-08-23,FL1,,Le Havre,AS Monaco,0,1,,,f15_A,14:A
+2026-08-23,FL1,,Rennes,Paris Saint-Germain,2,2,,,f15_H;late_eq_A_82;comeback_A;blown_H,9:H;38:H;71:A;82:A
+2026-08-23,LALIGA,,Atletico Madrid,Villarreal,2,2,,,late_eq_H_85;comeback_H;comeback_A;blown_H;blown_A,59:H;66:A;78:A;85:H
+2026-08-23,LALIGA,,Elche,Barcelona,0,5,,,f15_A,14:A;45:A;67:A;71:A;79:A
+2026-08-23,LALIGA,,Getafe,Racing Santander,1,0,,,late_win_H_81,81:H
+2026-08-23,PL,,Brighton & Hove Albion,Aston Villa,4,0,,,f15_H,8:H;18:H;30:H;31:H
+2026-08-23,PL,,Manchester City,Bournemouth,2,1,,,late_win_H_90;comeback_H;blown_A,26:A;84:H;90:H
+2026-08-23,PL,,Newcastle United,Liverpool,2,2,,,f15_H;late_eq_A_90;multi_comeback_A;blown_H,5:H;55:A;57:H;90:A
+2026-08-23,SA,,Atalanta,Sassuolo,2,1,,,f15_H,6:H;55:A;65:H
+2026-08-23,SA,,Frosinone,Juventus,0,1,,,,22:A
+2026-08-23,SA,,Torino,AC Milan,1,2,,,,64:A;66:A;90:H
+2026-08-23,SA,,Venezia,Lecce,0,2,,,late_win_A_80,46:A;80:A
+2026-08-24,DFB,R1,Hallescher FC,FC Schalke 04,2,5,,,late_win_A_117;comeback_A;blown_H,45:H;62:A;81:A;90:H;98:A;105:A;117:A
+2026-08-24,DFB,R1,SC Verl 1924,Hamburger SV,0,3,,,,40:A;46:A;50:A
+2026-08-24,DFB,R1,Wurzburger Kickers,1. FC Koln,1,2,,,comeback_A;blown_H,18:H;62:A;77:A
+2026-08-24,LALIGA,,Malaga,Deportivo La Coruna,1,1,,,comeback_H;blown_A,21:A;34:H
+2026-08-24,LALIGA,,Osasuna,Levante,0,0,,,,
+2026-08-24,PL,,Fulham,Chelsea,2,3,,,f15_A,1:A;23:H;41:A;49:A;54:H
+2026-08-24,SA,,Bologna,Lazio,0,1,,,,59:A
+2026-08-24,SA,,Roma,Fiorentina,4,0,,,late_win_H_86,27:H;52:H;60:H;86:H
+2026-08-25,LALIGA,,Valencia,Real Betis,0,1,,,late_win_A_83,83:A
+2026-08-25,LC,R2,Birmingham City,Brentford,1,6,,,f15_A,6:A;28:H;35:A;40:A;70:A;73:A;77:A
+2026-08-25,LC,R2,Ipswich Town,Leicester City,3,1,,,late_win_H_90,62:H;67:A;71:H;90:H
+2026-08-25,LC,R2,Nottingham Forest,Leeds United,0,2,,,,50:A;75:A
+2026-08-25,LC,R2,Plymouth Argyle,Coventry City,2,4,,,f15_A,3:A;5:A;21:H;54:H;67:A;78:A
+2026-08-25,LC,R2,Stoke City,Hull City,1,1,,,comeback_A;blown_H,39:H;45:A
+2026-08-26,LALIGA,,Real Madrid,Real Sociedad,4,1,,,late_win_H_80,40:H;44:A;60:H;68:H;80:H
+2026-08-26,LC,R2,Newcastle United,West Bromwich Albion,3,2,,,late_win_H_81;comeback_H;blown_A,19:A;38:H;48:H;77:A;81:H
+2026-08-26,LC,R2,Preston North End,Everton,0,4,,,,25:A;59:A;70:A;72:A
+2026-08-26,LC,R2,Tottenham Hotspur,Charlton Athletic,5,1,,,late_win_H_85,41:H;45:H;67:H;82:H;85:H;87:A
+2026-08-26,UCL,PO,Lyon,Fenerbahce,1,2,,,,
+2026-08-27,LALIGA,,Barcelona,Athletic Club,2,0,,,late_win_H_82,37:H;82:H
+2026-08-27,LALIGA,,Celta Vigo,Osasuna,1,2,,,f15_H;comeback_A;blown_H,14:H;54:A;64:A
+2026-08-27,LC,R2,Chelsea,Luton Town,2,0,,,,50:H;79:H
+2026-08-27,LC,R2,Fulham,AFC Wimbledon,3,0,,,late_win_H_90,37:H;42:H;90:H
+2026-08-27,UECL,PO,AS Monaco,Gornik Zabrze,4,1,,,,
+2026-08-27,UECL,PO,Hapoel Tel Aviv,Atalanta,0,1,,,,
+2026-08-27,UECL,PO,SC Freiburg,Motherwell,4,1,,,,
+2026-08-28,BL1,,Bayern Munich,VfB Stuttgart,5,1,,,late_win_H_90,21:H;52:A;55:H;57:H;82:H;90:H
+2026-08-28,FL1,,Lille,Paris Saint-Germain,2,2,,,late_eq_H_84;late_eq_A_90;comeback_A;blown_H,21:H;84:H;90:A;90:A
+2026-08-28,LALIGA,,Alaves,Villarreal,1,0,,,,31:H
+2026-08-28,LALIGA,,Racing Santander,Elche,3,2,,,f15_H,15:H;21:H;36:H;78:A;79:A
+2026-08-28,PL,,Crystal Palace,Manchester City,1,4,,,late_win_A_84,17:A;54:A;56:H;59:A;84:A
+2026-08-28,SA,,AC Milan,Venezia,2,0,,,late_win_H_89,69:H;89:H
+2026-08-29,BL1,,1. FC Koln,Hoffenheim,3,2,,,late_win_H_82;multi_comeback_H;blown_A,27:A;51:H;67:A;72:H;82:H
+2026-08-29,BL1,,Borussia Dortmund,Hamburger SV,2,0,,,f15_H,9:H;45:H
+2026-08-29,BL1,,Mainz 05,SC Paderborn 07,0,0,,,,
+2026-08-29,BL1,,RB Leipzig,Borussia Monchengladbach,3,0,,,,25:H;49:H;66:H
+2026-08-29,BL1,,SV Elversberg,Bayer Leverkusen,3,2,,,f15_H,8:H;9:H;46:H;77:A;90:A
+2026-08-29,BL1,,Union Berlin,Eintracht Frankfurt,3,3,,,f15_H;late_eq_H_90;comeback_H;comeback_A;blown_H;blown_A,3:H;10:A;11:A;67:A;79:H;90:H
+2026-08-29,FL1,,Auxerre,Angers,1,3,,,f15_A,5:A;35:H;70:A;78:A
+2026-08-29,FL1,,Brest,Toulouse,2,2,,,f15_A;late_eq_H_90;multi_comeback_H;blown_A,9:A;18:H;62:A;90:H
+2026-08-29,FL1,,Lorient,Troyes,1,2,,,,29:A;38:A;51:H
+2026-08-29,FL1,,Lyon,Le Havre,1,1,,,late_eq_H_87;comeback_H;blown_A,74:A;87:H
+2026-08-29,FL1,,Strasbourg,Lens,2,1,,,late_win_H_85;comeback_H;blown_A,38:A;48:H;85:H
+2026-08-29,LALIGA,,Levante,Real Betis,5,2,,,late_win_H_90;comeback_H;blown_A,24:H;34:A;45:H;45:A;56:H;70:H;90:H
+2026-08-29,LALIGA,,Real Sociedad,Espanyol,2,1,,,f15_H,4:H;45:A;61:H
+2026-08-29,LALIGA,,Sevilla,Atletico Madrid,1,3,,,f15_A,4:A;26:A;33:A;66:H
+2026-08-29,PL,,Bournemouth,Everton,1,1,,,late_eq_A_90;comeback_A;blown_H,41:H;90:A
+2026-08-29,PL,,Coventry City,Hull City,0,1,,,late_win_A_82,82:A
+2026-08-29,PL,,Liverpool,Nottingham Forest,2,2,,,late_eq_H_82;multi_comeback_H;blown_A,24:A;60:H;70:A;82:H
+2026-08-29,PL,,Tottenham Hotspur,Newcastle United,0,2,,,,62:A;72:A
+2026-08-29,SA,,Fiorentina,Frosinone,0,3,,,,26:A;38:A;68:A
+2026-08-29,SA,,Juventus,Parma,2,0,,,late_win_H_88,62:H;88:H
+2026-08-29,SA,,Monza,Udinese,2,3,,,,32:A;37:H;45:A;45:A;63:H
+2026-08-29,SA,,Sassuolo,Torino,2,1,,,,32:H;45:A;78:H
+2026-08-30,BL1,,FC Augsburg,FC Schalke 04,3,0,,,late_win_H_90,18:H;79:H;90:H
+2026-08-30,BL1,,SC Freiburg,Werder Bremen,4,1,,,,29:H;45:H;48:H;55:H;76:A
+2026-08-30,FL1,,AS Monaco,Marseille,2,0,,,f15_H,13:H;53:H
+2026-08-30,FL1,,Paris FC,Nice,3,0,,,late_win_H_89,21:H;51:H;89:H
+2026-08-30,FL1,,Rennes,Le Mans,3,2,,,f15_H;late_win_H_90,5:H;26:H;30:A;54:A;90:H
+2026-08-30,LALIGA,,Celta Vigo,Athletic Club,0,2,,,,20:A;22:A
+2026-08-30,LALIGA,,Deportivo La Coruna,Valencia,3,1,,,f15_H,13:H;17:H;26:A;59:H
+2026-08-30,LALIGA,,Real Madrid,Malaga,4,0,,,late_win_H_90,19:H;26:H;30:H;90:H
+2026-08-30,PL,,Chelsea,Brighton & Hove Albion,4,3,,,f15_H,4:H;14:H;32:H;35:A;63:A;74:H;90:A
+2026-08-30,PL,,Leeds United,Brentford,1,1,,,comeback_H;blown_A,41:A;79:H
+2026-08-30,PL,,Manchester United,Ipswich Town,5,2,,,late_win_H_82;comeback_H;blown_A,29:A;40:H;56:H;61:H;68:H;82:H;90:A
+2026-08-30,PL,,Sunderland,Fulham,1,0,,,,75:H
+2026-08-30,SA,,Cagliari,Inter Milan,0,1,,,f15_A,9:A
+2026-08-30,SA,,Lazio,Genoa,1,0,,,,25:H
+2026-08-30,SA,,Napoli,Como,1,2,,,,17:A;30:H;34:A
+2026-08-31,LALIGA,,Barcelona,Rayo Vallecano,5,2,,,f15_A;late_win_H_90;comeback_H;blown_A,12:A;19:H;21:H;51:H;59:A;71:H;90:H
+2026-08-31,LALIGA,,Osasuna,Getafe,1,0,,,,45:H
+2026-08-31,PL,,Aston Villa,Arsenal,0,1,,,,59:A
+2026-08-31,SA,,Atalanta,Bologna,1,0,,,late_win_H_90,90:H
+2026-08-31,SA,,Lecce,Roma,0,4,,,f15_A,4:A;23:A;25:A;65:A
+2026-09-01,CI,R2,Parma,Cremonese,0,2,,,f15_A,5:A;41:A
+2026-09-01,CI,R2,Torino,Monza,0,1,,,,45:A
+2026-09-01,DFB,R1,HEBC Hamburg,Borussia Dortmund,0,5,,,,33:A;36:A;41:A;45:A;59:A
+2026-09-02,CI,R2,Sassuolo,Frosinone,1,1,,,comeback_A;blown_H,36:H;45:A
+2026-09-02,CI,R2,Udinese,Venezia,2,1,,,f15_A;comeback_H;blown_A,9:A;34:H;53:H
+2026-09-02,DFB,R1,VfL Osnabruck,Bayern Munich,1,4,,,f15_H;late_win_A_86;comeback_A;blown_H,5:H;18:A;24:A;73:A;86:A
+2026-09-03,CI,R2,Cagliari,Hellas Verona,1,2,,,late_win_A_87,23:A;57:H;87:A
+2026-09-03,FL1,,Toulouse,Lille,0,1,,,,73:A
+2026-09-03,LALIGA,,Real Sociedad,Celta Vigo,0,0,,,,
+2026-09-04,BL1,,VfB Stuttgart,1. FC Koln,4,1,,,late_win_H_90,39:H;60:H;75:H;81:A;90:H
+2026-09-04,FL1,,Lyon,Auxerre,3,1,,,,28:H;31:H;42:A;53:H
+2026-09-04,FL1,,Paris Saint-Germain,AS Monaco,1,2,,,comeback_A;blown_H,31:H;58:A;72:A
+2026-09-04,LALIGA,,Real Betis,Real Madrid,1,0,,,late_win_H_81,81:H
+2026-09-04,PL,,Ipswich Town,Liverpool,0,2,,,f15_A,6:A;9:A
+2026-09-04,SA,,Genoa,Como,1,4,,,comeback_A;blown_H,19:H;25:A;30:A;40:A;78:A
+2026-09-05,BL1,,Bayer Leverkusen,Union Berlin,4,0,,,f15_H,1:H;28:H;48:H;66:H
+2026-09-05,BL1,,Borussia Monchengladbach,SV Elversberg,3,4,,,f15_H;late_win_A_90;multi_comeback_A;blown_H,11:H;29:A;44:H;56:H;66:A;80:A;90:A
+2026-09-05,BL1,,FC Schalke 04,Bayern Munich,0,0,,,,
+2026-09-05,BL1,,Hoffenheim,Borussia Dortmund,2,3,,,late_win_A_86;comeback_A;blown_H,45:H;54:H;61:A;66:A;86:A
+2026-09-05,BL1,,SC Paderborn 07,SC Freiburg,0,1,,,,26:A
+2026-09-05,BL1,,Werder Bremen,RB Leipzig,3,1,,,f15_H;late_win_H_80,4:H;68:H;80:H;90:A
+2026-09-05,FL1,,Le Havre,Brest,1,2,,,f15_A,12:A;51:A;79:H
+2026-09-05,FL1,,Lens,Lorient,0,1,,,,54:A
+2026-09-05,FL1,,Nice,Le Mans,1,1,,,f15_A;comeback_H;blown_A,13:A;44:H
+2026-09-05,LALIGA,,Athletic Club,Atletico Madrid,3,0,,,late_win_H_90,46:H;48:H;90:H
+2026-09-05,LALIGA,,Rayo Vallecano,Racing Santander,3,2,,,f15_A;multi_comeback_H;blown_A,4:A;17:H;28:A;43:H;47:H
+2026-09-05,LALIGA,,Villarreal,Deportivo La Coruna,2,3,,,late_win_A_88;multi_comeback_A;blown_H,19:H;43:A;76:H;79:A;88:A
+2026-09-05,PL,,Brentford,Sunderland,1,1,,,late_eq_A_82;comeback_A;blown_H,57:H;82:A
+2026-09-05,PL,,Brighton & Hove Albion,Leeds United,1,1,,,f15_A;comeback_H;blown_A,15:A;71:H
+2026-09-05,PL,,Fulham,Crystal Palace,2,3,,,f15_H;multi_comeback_A;blown_H,11:H;35:A;42:H;54:A;77:A
+2026-09-05,PL,,Hull City,Aston Villa,0,0,,,,
+2026-09-05,PL,,Manchester City,Coventry City,1,0,,,,26:H
+2026-09-05,PL,,Newcastle United,Bournemouth,2,2,,,f15_A;late_eq_H_88;comeback_H;blown_A,9:A;35:A;37:H;88:H
+2026-09-05,PL,,Nottingham Forest,Tottenham Hotspur,0,0,,,,
+2026-09-05,SA,,Fiorentina,Torino,1,2,,,late_win_A_82;comeback_A;blown_H,47:H;74:A;82:A
+2026-09-05,SA,,Inter Milan,Napoli,3,2,,,late_win_H_90;comeback_H;blown_A,50:A;53:A;56:H;82:H;90:H
+2026-09-05,SA,,Roma,Atalanta,2,1,,,late_win_H_90;comeback_H;blown_A,47:A;89:H;90:H
+2026-09-06,BL1,,Eintracht Frankfurt,FC Augsburg,1,4,,,f15_H;late_win_A_89;comeback_A;blown_H,6:H;46:A;47:A;65:A;89:A
+2026-09-06,BL1,,Hamburger SV,Mainz 05,0,5,,,late_win_A_90,19:A;41:A;48:A;83:A;90:A
+2026-09-06,FL1,,Angers,Rennes,1,2,,,f15_A,9:A;17:A;35:H
+2026-09-06,FL1,,Marseille,Paris FC,2,3,,,f15_A;late_win_A_86,1:A;8:H;19:A;53:H;86:A
+2026-09-06,FL1,,Troyes,Strasbourg,2,6,,,f15_H;late_win_A_90;comeback_A;blown_H,9:H;40:A;42:A;57:A;85:A;88:A;90:A;90:H
+2026-09-06,LALIGA,,Alaves,Osasuna,5,2,,,late_win_H_90,27:H;36:H;46:A;51:H;64:A;68:H;90:H
+2026-09-06,LALIGA,,Espanyol,Sevilla,1,1,,,late_eq_A_85;late_eq_H_90;comeback_H;blown_A,85:A;90:H
+2026-09-06,LALIGA,,Malaga,Levante,0,0,,,,
+2026-09-06,LALIGA,,Valencia,Barcelona,0,5,,,f15_A;late_win_A_84,6:A;22:A;50:A;79:A;84:A
+2026-09-06,PL,,Arsenal,Chelsea,2,1,,,f15_A;comeback_H;blown_A,2:A;25:H;50:H
+2026-09-06,PL,,Everton,Manchester United,2,2,,,late_eq_H_90;late_eq_A_88;multi_comeback_H;blown_A,46:A;83:H;88:A;90:H
+2026-09-06,SA,,Bologna,Sassuolo,2,2,,,late_eq_H_90;multi_comeback_H;blown_A,19:A;50:H;56:A;90:H
+2026-09-06,SA,,Frosinone,Venezia,3,2,,,late_win_H_83,21:H;39:H;66:A;74:A;83:H
+2026-09-06,SA,,Juventus,AC Milan,1,1,,,late_eq_H_90;comeback_H;blown_A,68:A;90:H
+2026-09-06,SA,,Parma,Monza,1,1,,,comeback_H;blown_A,38:A;60:H
+2026-09-07,LALIGA,,Elche,Real Sociedad,2,3,,,f15_A;late_win_A_90,11:A;31:A;67:H;74:H;90:A
+2026-09-07,LALIGA,,Getafe,Celta Vigo,1,1,,,comeback_A;blown_H,21:H;57:A
+2026-09-07,SA,,Cagliari,Lecce,1,0,,,,29:H
+2026-09-07,SA,,Udinese,Lazio,1,2,,,late_win_A_88;comeback_A;blown_H,49:H;75:A;88:A
+2026-09-08,LC,R3,Bournemouth,Lincoln City,4,0,,,f15_H;late_win_H_90,7:H;69:H;88:H;90:H
+2026-09-08,LC,R3,Crystal Palace,Middlesbrough,3,0,,,,37:H;53:H;72:H
+2026-09-08,LC,R3,Millwall,Newcastle United,0,1,,,late_win_A_81,81:A
+2026-09-08,LC,R3,Sunderland,Hull City,1,0,,,,71:H
+2026-09-08,UCL,GRP,Borussia Dortmund,Villarreal,3,2,,,late_win_H_85,53:H;66:A;80:H;85:H;90:A
+2026-09-08,UCL,GRP,Club Brugge,Aston Villa,2,3,,,f15_A,11:A;19:H;22:A;43:A;61:H
+2026-09-08,UCL,GRP,FC Porto,Manchester City,0,2,,,late_win_A_90,47:A;90:A
+2026-09-08,UCL,GRP,Lille,Real Betis,2,3,,,f15_H;multi_comeback_A;blown_H,12:H;33:A;36:H;49:A;53:A
+2026-09-08,UCL,GRP,Real Madrid,Inter Milan,2,1,,,f15_H,14:H;23:H;77:A
+2026-09-09,LC,R3,Chelsea,Leeds United,6,3,,,late_win_H_90;comeback_H;blown_A,23:A;48:A;53:H;55:H;60:H;65:H;75:A;80:H;90:H
+2026-09-09,UCL,GRP,Barcelona,Feyenoord Rotterdam,5,1,,,f15_H;late_win_H_85,3:H;22:H;57:H;77:H;82:A;85:H
+2026-09-09,UCL,GRP,Liverpool,Atletico Madrid,2,1,,,comeback_H;blown_A,17:A;40:H;50:H
+2026-09-09,UCL,GRP,Napoli,Arsenal,0,1,,,,75:A
+2026-09-09,UCL,GRP,Paris Saint-Germain,Slovan Bratislava,6,1,,,late_win_H_87,17:H;23:H;31:H;47:H;57:H;58:A;87:H
+2026-09-09,UCL,GRP,VfB Stuttgart,Viking FK,3,1,,,,20:H;22:A;26:H;32:H
+2026-09-10,UCL,GRP,Bayern Munich,Bodo/Glimt,5,0,,,late_win_H_90,47:H;61:H;77:H;83:H;90:H
+2026-09-10,UCL,GRP,Como,RB Leipzig,4,1,,,f15_H;late_win_H_90,15:H;38:H;54:H;58:A;90:H
+2026-09-10,UCL,GRP,Fenerbahce,Roma,1,1,,,comeback_H;blown_A,39:A;48:H
+2026-09-10,UCL,GRP,Manchester United,Sabah FK,4,0,,,,27:H;42:H;45:H;68:H
+2026-09-10,UCL,GRP,Slavia Prague,Lens,2,3,,,late_win_A_90;multi_comeback_A;blown_H,51:H;73:A;88:H;90:A;90:A
+2026-09-11,BL1,,Union Berlin,FC Schalke 04,1,3,,,late_win_A_90,25:A;46:A;90:H;90:A
+2026-09-11,FL1,,Rennes,Marseille,1,0,,,,52:H
+2026-09-11,LALIGA,,Sevilla,Valencia,1,0,,,late_win_H_81,81:H
+2026-09-11,SA,,Venezia,Fiorentina,2,4,,,late_win_A_84;comeback_A;blown_H,22:H;29:A;30:A;66:A;84:A;86:H

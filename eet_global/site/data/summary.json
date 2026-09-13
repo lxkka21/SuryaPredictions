@@ -1,0 +1,67 @@
+{
+ "generated_at": "2026-09-12 17:36",
+ "match_count": 228,
+ "team_count": 155,
+ "leagues": {
+  "BL1": {
+   "name": "Bundesliga",
+   "matches": 19
+  },
+  "FL1": {
+   "name": "Ligue 1",
+   "matches": 28
+  },
+  "LALIGA": {
+   "name": "La Liga",
+   "matches": 42
+  },
+  "PL": {
+   "name": "Premier League",
+   "matches": 30
+  },
+  "SA": {
+   "name": "Serie A",
+   "matches": 31
+  }
+ },
+ "cups": {
+  "CI": {
+   "name": "Coppa Italia",
+   "matches": 17
+  },
+  "CS": {
+   "name": "Super Cup",
+   "matches": 1
+  },
+  "DFB": {
+   "name": "DFB-Pokal",
+   "matches": 18
+  },
+  "LC": {
+   "name": "Carabao Cup",
+   "matches": 15
+  },
+  "UCL": {
+   "name": "UEFA Champions League",
+   "matches": 19
+  },
+  "UECL": {
+   "name": "UEFA Conference League",
+   "matches": 8
+  }
+ },
+ "competitions": [
+  "BL1",
+  "CI",
+  "CS",
+  "DFB",
+  "FL1",
+  "LALIGA",
+  "LC",
+  "PL",
+  "SA",
+  "UCL",
+  "UECL"
+ ],
+ "teams_seen": 155
+}
