@@ -35,8 +35,8 @@ def main():
     if recompute:
         run('Recompute site JSON', ['run_week.py'])
         run('Deploy to Firebase', ['firebase', 'deploy', '--only', 'hosting',
-                                   '--project', 'suryabetting-47401'], shell=True)
-        print('\nDone. Live site rebuilt: https://suryabetting-47401.web.app')
+                                   '--project', 'suryapredictions-47401'], shell=True)
+        print('\nDone. Live site rebuilt: https://suryapredictions-47401.web.app')
         return
 
     run('Fetch + rebuild results.csv', ['import_espn.py'] + (['--dry'] if dry else []))
@@ -49,8 +49,8 @@ def main():
         return
 
     run('Deploy to Firebase', ['firebase', 'deploy', '--only', 'hosting',
-                               '--project', 'suryabetting-47401'], shell=True)
-    print('\nDone. Live site rebuilt: https://suryabetting-47401.web.app')
+                               '--project', 'suryapredictions-47401'], shell=True)
+    print('\nDone. Live site rebuilt: https://suryapredictions-47401.web.app')
 
 
 if __name__ == '__main__':

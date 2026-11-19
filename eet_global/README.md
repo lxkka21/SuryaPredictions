@@ -2,7 +2,7 @@
 
 **Europe's top 5 leagues + cups — ELO ratings, emotional analysis, and momentum tracking.**
 
-[Live Demo](https://suryabetting-47401.web.app) · [GitHub](https://github.com/lxkka21/SuryaBetting) · Firebase Hosting
+[Live Demo](https://suryapredictions-47401.web.app) · [GitHub](https://github.com/lxkka21/SuryaBetting) · Firebase Hosting
 
 ---
 
@@ -176,7 +176,7 @@ Visit <http://localhost:8000> to see the site with live data.
 ### Deploy to Firebase
 
 ```bash
-firebase deploy --only hosting --project suryabetting-47401
+firebase deploy --only hosting --project suryapredictions-47401
 ```
 
 Or use the one‑command `python update.py` (full: fetch + recompute + deploy).
